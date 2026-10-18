@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Data
+*_joblib/
+*_joblib_cells/
+*_joblib_cells_/
+task2_patches/
+task2_patches_/
+patches_*/
+original_by_drug/
+*.zip
+*.tif
+*.tiff
+
+# Results, logs, reports
+results*/
+logs*/
+reports/
+gradcam*_outputs/
+pred_cells_*/
+*.log
+training_log*.txt
+*.xlsx
+*.csv
+*.png
+*.jpg
+*.pdf

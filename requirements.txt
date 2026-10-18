@@ -1,0 +1,13 @@
+torch>=2.7
+torchvision>=0.22
+timm==1.0.15
+numpy<2
+pandas
+scikit-learn
+scipy
+Pillow
+tifffile
+tqdm
+openpyxl
+matplotlib
+seaborn
